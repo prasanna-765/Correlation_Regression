@@ -21,6 +21,10 @@ If y represents the dependent variable and x the independent variable, this rela
 
 # Program :
 
+Developed by : A Prasanna
+
+Register no : 23005675
+
 ![prog](https://github.com/prasanna-765/Correlation_Regression/assets/150009505/f091a8c4-32eb-4d80-b5a1-a486909f3b38)
 
 # Output: 
